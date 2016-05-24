@@ -8,6 +8,7 @@ D3 visualization
 
 ## Running 
 ```
+npm install -g typings
 tsc --sourcemap data.ts
-start perf.html
+sensible-browser perf.html
 ```
